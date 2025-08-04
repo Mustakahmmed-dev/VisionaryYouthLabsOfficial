@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/components/ui/shared/Navbar";
+import Navbar from "@/components/shared/Navbar";
+import Footer from "@/components/shared/footer";
 
 export const metadata = {
   title: "Visionary Youth Labs",
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
         <Navbar></Navbar>
         {children}
 
+      <Footer></Footer>
       </body>
     </html>
   );

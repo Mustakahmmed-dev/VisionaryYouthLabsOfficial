@@ -131,6 +131,8 @@
   border-radius: 8px;
   background-color: #5ce1e6;
   color: black;
+  transition: all 0.3s;
+  text-wrap: nowrap;
 }
 .btn-normal:hover{
   background-color: #060037;
