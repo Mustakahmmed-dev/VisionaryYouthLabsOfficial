@@ -6,3 +6,13 @@
 ====================
 
 -->
+
+# Technologies
+- JavaScript
+- React
+- NextJS
+- TailwindCSS
+- Shadcn
+
+## Resources Libs
+- Lucide react
