@@ -1,4 +1,5 @@
 "use client";
+import { AlignJustify, X } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -45,7 +46,7 @@ const Navbar = () => {
                         <p>The leading tech company</p>
                     </div>
                     <div>
-                        <button onClick={() => setOpen(!open)} className="cursor-pointer transition-all duration-300"> {open ? "Open" : "Close"} </button>
+                        <button onClick={() => setOpen(!open)} className="cursor-pointer btn-nav-toggle"> {open ? <AlignJustify size={28} /> : <X size={28} />} </button>
                     </div>
                 </div>
 
