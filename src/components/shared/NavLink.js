@@ -4,7 +4,11 @@ import { usePathname } from "next/navigation"
 
 export default function NavLink({ href, exact = false, className = "", activeClass = "text-[#5ce1e6]", children }) {
   const pathname = usePathname()
-  const isActive = exact ? pathname === href : pathname.startsWith(href)
+
+  const normalize = (url) => url.replace(/\/+$/, '') || '/'
+  const isActive = exact
+    ? normalize(pathname) === normalize(href)
+    : normalize(pathname).startsWith(normalize(href))
 
   return (
     <Link

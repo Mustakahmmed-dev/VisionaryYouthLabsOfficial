@@ -9,9 +9,9 @@ import {
 } from "@/components/ui/dropdown-menu"
 
 import { AlignJustify, ChevronDown, X } from "lucide-react";
-import Link from "next/link";
 import { useState } from "react";
 import NavLink from "./NavLink";
+import Logo from "./Logo";
 
 const Navbar = () => {
     const mainLinks = <>
@@ -49,11 +49,9 @@ const Navbar = () => {
     return (
         <div className="">
             {/* Large devices */}
-            <nav className="hidden md:flex justify-between items-center p-5 text-white bg-primary-custom gap-5">
-                <div>
-                    {/* Logo image */}
-                    <h2>Visionary Youth Labs</h2>
-                    <p>The leading tech company</p>
+            <nav className="hidden p-4 md:flex justify-between items-center text-white bg-primary-custom gap-5">
+                <div className="w-28">
+                    <Logo></Logo>
                 </div>
 
                 <div>
@@ -69,11 +67,9 @@ const Navbar = () => {
 
             {/* Small Devices */}
             <nav className=" md:hidden p-5 text-white bg-primary-custom">
-                <div className="flex justify-between">
-                    <div>
-                        {/* Logo image */}
-                        <h2>Visionary Youth Labs</h2>
-                        <p>The leading tech company</p>
+                <div className="flex items-center justify-between">
+                    <div className="w-28">
+                        <Logo></Logo>
                     </div>
                     <div>
                         <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="cursor-pointer btn-nav-toggle"> {isMenuOpen ? <AlignJustify size={28} /> : <X size={28} />} </button>
