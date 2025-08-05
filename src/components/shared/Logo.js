@@ -1,7 +1,7 @@
 
 const Logo = () => {
     return(
-            <img src="/VisionaryYouthLabsLogo.png" alt="Something went wrong in Visionary Youth Labs Logo"/>
+            <img className="w-28" src="/VisionaryYouthLabsLogo.png" alt="Something went wrong in Visionary Youth Labs Logo"/>
     )
 }
 
