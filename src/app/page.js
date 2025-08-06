@@ -1,4 +1,5 @@
 import Hero from "@/components/shared/Hero";
+import PortfolioOverview from "@/components/shared/PortfolioOverview";
 import ServicesOverview from "@/components/shared/ServicesOverview";
 import WhyChooseUs from "@/components/shared/WhyChooseUs";
 
@@ -8,7 +9,7 @@ export default function Home() {
     <Hero></Hero>
     <ServicesOverview></ServicesOverview>
     <WhyChooseUs></WhyChooseUs>
-
+    <PortfolioOverview></PortfolioOverview>
    </div>
   );
 }

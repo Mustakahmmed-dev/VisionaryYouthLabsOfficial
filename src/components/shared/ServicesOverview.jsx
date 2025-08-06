@@ -12,7 +12,7 @@ const ServicesOverview = () => {
     }, []);
 
     return (
-        <section className="bg-[#060037] py-16 text-white">
+        <section className="bg-[#060037] px-6 md:px-10 lg:px-20 text-white">
             <div className="container mx-auto px-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
                     Choose Your Needs From Our Services

@@ -1,0 +1,66 @@
+[
+  {
+    "portfolioID": 1,
+    "title": "High-Volume Recruitment Leads for XYZ Inc.",
+    "category": "Lead Generation",
+    "thumbnail": "/images/portfolio/xyz-leads.jpg",
+    "shortDescription": "Generated 35K+ verified leads for a US-based staffing agency within 3 months.",
+    "slug": "xyz-inc-recruitment-leads"
+  },
+  {
+    "portfolioID": 2,
+    "title": "Custom Web Platform for EduTech Pro",
+    "category": "Web Development",
+    "thumbnail": "/images/portfolio/edutech-platform.jpg",
+    "shortDescription": "Designed and developed a responsive, SEO-optimized platform for a global EdTech startup.",
+    "slug": "edutech-web-platform"
+  },
+  {
+    "portfolioID": 3,
+    "title": "360° Branding for Elite Recruiters",
+    "category": "Branding & Design",
+    "thumbnail": "/images/portfolio/elite-branding.jpg",
+    "shortDescription": "Full branding suite including logo, colors, social kit and pitch deck for a UK-based recruitment firm.",
+    "slug": "elite-recruiters-branding"
+  },
+  {
+    "portfolioID": 4,
+    "title": "LinkedIn Ads Funnel for Staffing Boost",
+    "category": "Paid Ads",
+    "thumbnail": "/images/portfolio/staffing-ads.jpg",
+    "shortDescription": "Ran multi-step LinkedIn ad funnel, driving 10x ROI for hiring campaigns.",
+    "slug": "linkedin-ads-staffing"
+  },
+  {
+    "portfolioID": 5,
+    "title": "NGO Website Revamp for HopeBridge",
+    "category": "Web Development",
+    "thumbnail": "/images/portfolio/hopebridge-ngo.jpg",
+    "shortDescription": "Revamped an outdated NGO site into a mobile-friendly, accessible donation-driven platform.",
+    "slug": "hopebridge-ngo-revamp"
+  },
+  {
+    "portfolioID": 6,
+    "title": "B2B Lead Pipeline for GlobalTech Supply",
+    "category": "Lead Generation",
+    "thumbnail": "/images/portfolio/globaltech-leads.jpg",
+    "shortDescription": "Identified and verified 12,000+ decision-maker leads in the supply chain sector.",
+    "slug": "globaltech-lead-pipeline"
+  },
+  {
+    "portfolioID": 7,
+    "title": "Digital Launch for Startup Academy",
+    "category": "Digital Strategy",
+    "thumbnail": "/images/portfolio/startup-academy.jpg",
+    "shortDescription": "Developed go-to-market strategy and landing pages for a startup e-learning platform.",
+    "slug": "startup-academy-launch"
+  },
+  {
+    "portfolioID": 8,
+    "title": "Full-Suite Web & Ads for RecruitPlus",
+    "category": "Web + Ads",
+    "thumbnail": "/images/portfolio/recruitplus-suite.jpg",
+    "shortDescription": "Delivered a high-performing website and full ad setup, reducing cost-per-lead by 60%.",
+    "slug": "recruitplus-web-ads"
+  }
+]
