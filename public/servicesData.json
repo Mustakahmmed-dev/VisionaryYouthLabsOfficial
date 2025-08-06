@@ -1,0 +1,87 @@
+[
+  {
+    "serviceID": 1,
+    "slug": "lead-generation",
+    "title": "Lead Generation",
+    "shortDescription": "Drive growth by finding and converting high-quality leads.",
+    "detailedDescription": "\nOur Lead Generation service helps businesses consistently find potential clients through modern tools, strategic outreach, and targeted campaigns. We specialize in B2B and B2C lead generation using email scraping, LinkedIn automation, paid ads, cold emails, and AI-powered targeting strategies.\n\n**What We Offer:**\n- Job board scraping for hiring intent\n- Email + LinkedIn contact discovery\n- Cold outreach sequences (with AI copywriting)\n- CRM integration & pipeline setup\n- Reporting & analytics dashboards\n\n**Who It\u2019s For:**\nRecruitment agencies, software companies, consultancies, startups, and global teams looking to grow faster.\n\n**Technologies Used:**\nApollo.io, Instantly, LinkedIn Sales Navigator, Google Sheets, Lemlist, and custom Python scraping bots.\n        ",
+    "image": "https://i.ibb.co/TBTtc0nm/WebDev2.jpg",
+    "features": [
+      "High-converting lead lists",
+      "Job board & hiring signal extraction",
+      "Custom-built scraping tools",
+      "Email & LinkedIn automation setup",
+      "Analytics dashboard for tracking"
+    ],
+    "ctaText": "Generate Leads Now",
+    "ctaLink": "/contact"
+  },
+  {
+    "serviceID": 2,
+    "slug": "web-development",
+    "title": "Web Development",
+    "shortDescription": "Fast, responsive websites built for performance and results.",
+    "detailedDescription": "\nWe design and develop clean, SEO-friendly, high-performance websites tailored to your brand goals. Whether it\u2019s a portfolio, corporate, or eCommerce site, we deliver fully responsive designs optimized for speed, mobile-first UX, and conversion.\n\n**Our Expertise Includes:**\n- Frontend: React, Next.js, Tailwind CSS\n- Backend: Node.js, Express, MongoDB\n- CMS: WordPress, Sanity, Headless CMS\n- Integrations: Stripe, Calendly, CRMs\n\n**We Build:**\nLanding pages, SaaS websites, agency sites, product sites, NGO platforms, educational portals, and more.\n\n**Extras:**\nFree consultation, technical SEO audit, and performance optimization reports.\n        ",
+    "image": "https://i.ibb.co/TBTtc0nm/WebDev2.jpg",
+    "features": [
+      "Next.js + Tailwind expertise",
+      "100% responsive mobile-first designs",
+      "Fast performance optimization",
+      "Modern UI/UX",
+      "CMS or custom-coded options"
+    ],
+    "ctaText": "Build My Website",
+    "ctaLink": "/contact"
+  },
+  {
+    "serviceID": 3,
+    "slug": "digital-marketing",
+    "title": "Digital Marketing",
+    "shortDescription": "Complete digital marketing solutions to grow your brand online.",
+    "detailedDescription": "\nFrom paid advertising to content marketing, SEO, and analytics, our digital marketing service covers everything a modern brand needs to scale. We help you plan, execute, and measure marketing campaigns that deliver results.\n\n**Included Services:**\n- Google Ads & Meta Ads management\n- SEO audits and on-page optimization\n- Social media management\n- Content strategy (blogs, landing pages)\n- Performance tracking & reporting\n\n**Why Us:**\nWe blend creativity with data. Our marketers collaborate with our dev & design team to ensure everything works perfectly across platforms.\n\n**Ideal For:**\nSaaS brands, eCommerce stores, agencies, NGOs, and global startups.\n        ",
+    "image": "https://i.ibb.co/LX7g7xhR/Digital-Marketing1.jpg",
+    "features": [
+      "Full-funnel marketing campaigns",
+      "Google Ads + Meta Ads certified",
+      "SEO-optimized content",
+      "Social & content calendar",
+      "ROI-focused strategy"
+    ],
+    "ctaText": "Start Marketing",
+    "ctaLink": "/contact"
+  },
+  {
+    "serviceID": 4,
+    "slug": "recruitment-lead-generation",
+    "title": "Recruitment Lead Generation",
+    "shortDescription": "Complete digital marketing solutions to grow your brand online.",
+    "detailedDescription": "\nFrom paid advertising to content marketing, SEO, and analytics, our digital marketing service covers everything a modern brand needs to scale. We help you plan, execute, and measure marketing campaigns that deliver results.\n\n**Included Services:**\n- Google Ads & Meta Ads management\n- SEO audits and on-page optimization\n- Social media management\n- Content strategy (blogs, landing pages)\n- Performance tracking & reporting\n\n**Why Us:**\nWe blend creativity with data. Our marketers collaborate with our dev & design team to ensure everything works perfectly across platforms.\n\n**Ideal For:**\nSaaS brands, eCommerce stores, agencies, NGOs, and global startups.\n        ",
+    "image": "https://i.ibb.co/LX7g7xhR/Digital-Marketing1.jpg",
+    "features": [
+      "Full-funnel marketing campaigns",
+      "Google Ads + Meta Ads certified",
+      "SEO-optimized content",
+      "Social & content calendar",
+      "ROI-focused strategy"
+    ],
+    "ctaText": "Start Recruitment Lead Gen",
+    "ctaLink": "/contact"
+  },
+  {
+    "serviceID": 5,
+    "slug": "virtual-assistance",
+    "title": "Virtual Assistance",
+    "shortDescription": "Complete digital marketing solutions to grow your brand online.",
+    "detailedDescription": "\nFrom paid advertising to content marketing, SEO, and analytics, our digital marketing service covers everything a modern brand needs to scale. We help you plan, execute, and measure marketing campaigns that deliver results.\n\n**Included Services:**\n- Google Ads & Meta Ads management\n- SEO audits and on-page optimization\n- Social media management\n- Content strategy (blogs, landing pages)\n- Performance tracking & reporting\n\n**Why Us:**\nWe blend creativity with data. Our marketers collaborate with our dev & design team to ensure everything works perfectly across platforms.\n\n**Ideal For:**\nSaaS brands, eCommerce stores, agencies, NGOs, and global startups.\n        ",
+    "image": "https://i.ibb.co/LX7g7xhR/Digital-Marketing1.jpg",
+    "features": [
+      "Full-funnel marketing campaigns",
+      "Google Ads + Meta Ads certified",
+      "SEO-optimized content",
+      "Social & content calendar",
+      "ROI-focused strategy"
+    ],
+    "ctaText": "Start Virtual Assistance",
+    "ctaLink": "/contact"
+  }
+]
