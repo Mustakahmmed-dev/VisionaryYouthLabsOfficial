@@ -15,7 +15,7 @@ const ServicesOverview = () => {
         <section className="bg-[#060037] py-16 text-white">
             <div className="container mx-auto px-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-                    What We Offer
+                    Choose Your Needs From Our Services
                 </h2>
                 <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3">
                     {services.map((service) => (
@@ -23,7 +23,7 @@ const ServicesOverview = () => {
                             <img
                                 src={service.image}
                                 alt={service.title}
-                                className="h-64 w-full object-cover rounded-xl mb-4"
+                                className="h-60 w-full object-cover rounded-xl mb-4"
                             />
                             <div className="p-6 space-y-5">
 
