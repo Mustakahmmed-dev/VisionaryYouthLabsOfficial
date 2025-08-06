@@ -5,7 +5,7 @@ import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react"
 
 const Footer = () => {
     return (
-        <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-start bg-primary-custom p-5 text-white">
+        <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-start bg-primary-custom px-6 py-10 text-white">
             {/* Company profile related */}
             <div className="max-w-96">
                 <Logo></Logo>
@@ -45,9 +45,9 @@ const Footer = () => {
              <div>
                 <h2 className="text-xl mb-3 text-gray-300 font-bold">Connect with Us</h2>
                 <div className="flex gap-2">
-                    <Link href="/"> <Linkedin className="text-white" size={28} /> </Link>
-                    <Link href="/"> <Facebook className="text-white" size={28} /> </Link>
-                    <Link href="/"> <Instagram className="text-white" size={28} /> </Link>
+                    <Link href="https://www.linkedin.com/company/visionaryyouthlabs/"> <Linkedin className="text-white" size={28} /> </Link>
+                    <Link href="https://www.facebook.com/visionaryyouthlabs/"> <Facebook className="text-white" size={28} /> </Link>
+                    <Link href="https://www.instagram.com/visionaryyouthlabs/"> <Instagram className="text-white" size={28} /> </Link>
                     <Link href="/"> <Twitter className="text-white" size={28} /> </Link>
                 </div>
             </div>

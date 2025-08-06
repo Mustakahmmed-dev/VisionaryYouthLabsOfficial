@@ -1,4 +1,5 @@
 "use client";
+
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -12,6 +13,7 @@ import { AlignJustify, ChevronDown, X } from "lucide-react";
 import { useState } from "react";
 import NavLink from "./NavLink";
 import Logo from "./Logo";
+import Link from "next/link";
 
 const Navbar = () => {
     const mainLinks = <>
@@ -22,8 +24,9 @@ const Navbar = () => {
                     About <ChevronDown />
                 </DropdownMenuTrigger>
                 <DropdownMenuContent className="w-64 bg-primary-custom text-white">
-                    <DropdownMenuItem><NavLink href="/about/company" className=" hover:text-[#5ce1e6]">Company</NavLink></DropdownMenuItem>
-                    <DropdownMenuItem><NavLink href="/about/team" className=" hover:text-[#5ce1e6]">Team Members</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/about/company" className="block w-full hover:text-black">Company</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/about/team" className="block w-full hover:text-black">Team Members</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/academy" className="block w-full hover:text-black">Visionary Youth Labs Academy for Rohingya</NavLink></DropdownMenuItem>
                 </DropdownMenuContent>
             </DropdownMenu>
         </li>
@@ -33,9 +36,11 @@ const Navbar = () => {
                     Services <ChevronDown />
                 </DropdownMenuTrigger>
                 <DropdownMenuContent className="w-64 bg-primary-custom text-white">
-                    <DropdownMenuItem><NavLink href="/services/lead-generation" className=" hover:text-[#5ce1e6]">Lead Generation</NavLink></DropdownMenuItem>
-                    <DropdownMenuItem><NavLink href="/services/advertisement" className=" hover:text-[#5ce1e6]">Advertisement</NavLink></DropdownMenuItem>
-                    <DropdownMenuItem><NavLink href="/services/web-development" className=" hover:text-[#5ce1e6]">Web Development</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/services/lead-generation" className="block w-full hover:text-black">Lead Generation</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/services/advertisement" className="block w-full hover:text-black">Advertisement</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/services/web-development" className="block w-full hover:text-black">Web Development</NavLink></DropdownMenuItem>
+                    <DropdownMenuItem><NavLink href="/academy" className="block w-full hover:text-black">Visionary Youth Labs Academy for Rohingya</NavLink></DropdownMenuItem>
+
                 </DropdownMenuContent>
             </DropdownMenu>
         </li>
@@ -60,8 +65,8 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="flex items-center">
-                    <button className="btn-normal mr-4">Hire Us</button>
-                    <button className="btn-normal">Login</button>
+                    <Link href="/hire-us" className="btn-secondary-custom mr-4 text-nowrap">Hire Us</Link>
+                    <Link href="/login" className="btn-primary-custom">Login</Link>
                 </div>
             </nav>
 
@@ -83,8 +88,8 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <div className="flex flex-col gap-4">
-                        <button className="btn-normal">Hire Us</button>
-                        <button className="btn-normal">Login</button>
+                        <Link href="/hire-us" className="btn-secondary-custom">Hire Us</Link>
+                        <Link href="/login" className="btn-primary-custom">Login</Link>
                     </div>
                 </div>
             </nav>

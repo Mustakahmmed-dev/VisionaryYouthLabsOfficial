@@ -1,7 +1,8 @@
+import Image from "next/image"
 
 const Logo = () => {
     return(
-            <img className="w-28" src="/VisionaryYouthLabsLogo.png" alt="Something went wrong in Visionary Youth Labs Logo"/>
+            <img src="/VisionaryYouthLabsLogo.png" className="w-28" alt="Something went wrong in Visionary Youth Labs Logo"/>
     )
 }
 

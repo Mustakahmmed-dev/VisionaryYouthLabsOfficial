@@ -8,11 +8,14 @@
 -->
 
 # Technologies
-- JavaScript
+- JavaScript,
 - React
 - NextJS
 - TailwindCSS
 - Shadcn
+- React Simple Typewriter
+- Framer-motion
 
 ## Resources Libs
 - Lucide react
+- Undraw

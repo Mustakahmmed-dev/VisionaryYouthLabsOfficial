@@ -126,6 +126,23 @@
 .bg-primary-custom{
   background-color: #060037;
 }
+/* Buttons */
+.btn-primary-custom {
+  @apply bg-[#5ce1e6] text-[#060037] font-semibold px-6 py-3 rounded-lg transition;
+}
+
+.btn-primary-custom:hover {
+  @apply bg-white;
+}
+
+.btn-secondary-custom {
+  @apply border border-[#5ce1e6] text-[#5ce1e6] px-6 py-3 rounded-lg transition;
+}
+
+.btn-secondary-custom:hover {
+  @apply bg-[#5ce1e6] text-[#060037];
+}
+
 .btn-normal{
   padding: 8px 16px;
   border-radius: 8px;
