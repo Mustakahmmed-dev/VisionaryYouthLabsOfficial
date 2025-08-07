@@ -38,7 +38,7 @@ const ServicesOverview = () => {
                                         href={`/services/${service.slug}`}
                                         className="btn-secondary-custom"
                                     >
-                                       Learn more about {service.title}
+                                       Learn More
                                     </Link>
                                 </div>
                             </div>

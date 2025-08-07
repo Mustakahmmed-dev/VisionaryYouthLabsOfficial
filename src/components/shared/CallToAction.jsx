@@ -1,6 +1,6 @@
 const CallToAction = () => {
   return (
-    <section className="relative py-16 px-6 md:px-12 bg-gradient-to-r from-teal-800 to-gray-900 rounded-2xl overflow-hidden text-white text-center mt-20">
+    <section className="relative py-16 px-6 md:px-12 bg-gradient-to-r from-teal-800 to-gray-900 overflow-hidden text-white text-center ">
       {/* Blurred BG Shape */}
       <div className="absolute -top-16 -right-16 w-72 h-72 bg-teal-500 opacity-30 rounded-full blur-3xl"></div>
 
@@ -11,7 +11,7 @@ const CallToAction = () => {
         <p className="text-lg md:text-xl mb-8 text-gray-200">
           Whether it’s a website, marketing campaign, or growth strategy — we’ve got your back.
         </p>
-
+ 
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
           <a
             href="/contact"
