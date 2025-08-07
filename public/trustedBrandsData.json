@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "GoodFirms",
+    "logo": "https://i.ibb.co/WHn4D7N/goodfirms-logo.png",
+    "url": "https://www.goodfirms.co/company/visionary-youth-labs"
+  },
+  {
+    "id": 2,
+    "name": "Clutch",
+    "logo": "https://i.ibb.co/3Yg1ptN/clutch-logo.png",
+    "url": "https://clutch.co/profile/visionary-youth-labs"
+  },
+  {
+    "id": 3,
+    "name": "DesignRush",
+    "logo": "https://i.ibb.co/n8Q6tL9/designrush-logo.png",
+    "url": "https://www.designrush.com/agency/profile/visionary-youth-labs"
+  },
+  {
+    "id": 4,
+    "name": "UpCity",
+    "logo": "https://i.ibb.co/jfYxcz9/upcity-logo.png",
+    "url": "https://upcity.com/profiles/visionary-youth-labs"
+  },
+  {
+    "id": 5,
+    "name": "Sortlist",
+    "logo": "https://i.ibb.co/LdVS2K7/sortlist-logo.png",
+    "url": "https://www.sortlist.com/agency/visionary-youth-labs"
+  },
+  {
+    "id": 6,
+    "name": "TopDevelopers",
+    "logo": "https://i.ibb.co/wMZP9Zr/topdevelopers-logo.png",
+    "url": "https://www.topdevelopers.co/profile/visionary-youth-labs"
+  },
+  {
+    "id": 7,
+    "name": "TechBehemoths",
+    "logo": "https://i.ibb.co/wBqkHbW/techbehemoths-logo.png",
+    "url": "https://techbehemoths.com/company/visionary-youth-labs"
+  },
+  {
+    "id": 8,
+    "name": "The Manifest",
+    "logo": "https://i.ibb.co/fvBjBz2/manifest-logo.png",
+    "url": "https://themanifest.com/company/visionary-youth-labs"
+  }
+]

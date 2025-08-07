@@ -15,6 +15,7 @@
 - Shadcn
 - React Simple Typewriter
 - Framer-motion
+- Swiper JS
 
 ## Resources Libs
 - Lucide react
