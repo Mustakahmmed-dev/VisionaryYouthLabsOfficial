@@ -35,6 +35,7 @@ const Footer = () => {
                     <li><NavLink href="/" className=" hover:text-[#5ce1e6] md:p-3">Home</NavLink></li>
                     <li><NavLink href="/about/company" className=" hover:text-[#5ce1e6] md:p-3">Company</NavLink></li>
                     <li><NavLink href="/about/team" className=" hover:text-[#5ce1e6] md:p-3">Team</NavLink></li>
+                    <li><NavLink href="/projects" className=" hover:text-[#5ce1e6] md:p-3">Projects</NavLink></li>
                     <li><NavLink href="/blog" className=" hover:text-[#5ce1e6] md:p-3">Blog</NavLink></li>
                     <li><NavLink href="/contact" className=" hover:text-[#5ce1e6] md:p-3">Contact</NavLink></li>
 

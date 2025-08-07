@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Thompson",
+    "title": "Marketing Director",
+    "company": "BrightEdge Solutions",
+    "image": "/images/testimonials/sarah.jpg",
+    "testimonial": "Visionary Youth Labs transformed our digital presence. Their lead generation and web dev services are second to none!"
+  },
+  {
+    "id": 2,
+    "name": "Ahmed Khan",
+    "title": "Founder",
+    "company": "TechBoost",
+    "image": "/images/testimonials/ahmed.jpg",
+    "testimonial": "We've seen a 40% increase in inbound leads after working with VYL. Their dedication and tech know-how is unmatched."
+  },
+  {
+    "id": 3,
+    "name": "Emily Chen",
+    "title": "Head of Operations",
+    "company": "EduConnect",
+    "image": "/images/testimonials/emily.jpg",
+    "testimonial": "From branding to deployment, Visionary Youth Labs delivered flawlessly. Highly recommend for startups and NGOs alike."
+  },
+  {
+    "id": 4,
+    "name": "Jacob Miller",
+    "title": "CEO",
+    "company": "Miller Corp",
+    "image": "/images/testimonials/jacob.jpg",
+    "testimonial": "Superb lead generation results and insightful data support. VYL has been key in scaling our outreach strategy."
+  },
+  {
+    "id": 5,
+    "name": "Aisha Rahman",
+    "title": "Digital Strategist",
+    "company": "Greenfield Group",
+    "image": "/images/testimonials/aisha.jpg",
+    "testimonial": "Their team is proactive, responsive, and highly skilled. VYL helped us launch a project under tight deadlines."
+  },
+  {
+    "id": 6,
+    "name": "Liam O’Connor",
+    "title": "CTO",
+    "company": "NeuroSoft",
+    "image": "/images/testimonials/liam.jpg",
+    "testimonial": "We’ve tried multiple agencies — VYL was the first to deliver real, trackable results in digital marketing."
+  },
+  {
+    "id": 7,
+    "name": "Priya Desai",
+    "title": "Operations Manager",
+    "company": "UrbanSkills",
+    "image": "/images/testimonials/priya.jpg",
+    "testimonial": "Fantastic experience! The web development team is creative, detail-oriented and very professional."
+  },
+  {
+    "id": 8,
+    "name": "Carlos Rivera",
+    "title": "Product Manager",
+    "company": "NovaTech",
+    "image": "/images/testimonials/carlos.jpg",
+    "testimonial": "Their automation in recruitment lead generation helped us scale faster than expected. Impressive results!"
+  },
+  {
+    "id": 9,
+    "name": "Helena Morris",
+    "title": "Director of Programs",
+    "company": "EmpowerU",
+    "image": "/images/testimonials/helena.jpg",
+    "testimonial": "I appreciate their mission-aligned support. VYL delivers not just services but genuine collaboration."
+  },
+  {
+    "id": 10,
+    "name": "Tom Becker",
+    "title": "Chief Growth Officer",
+    "company": "NextWave Partners",
+    "image": "/images/testimonials/tom.jpg",
+    "testimonial": "Lead quality, communication, and execution — all top-notch. VYL is our go-to digital partner now."
+  }
+]

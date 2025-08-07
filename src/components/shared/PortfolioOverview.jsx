@@ -7,7 +7,7 @@ const PortfolioOverview = () => {
   const itemsToShow = portfolioData.slice(0, 6)
 
   return (
-    <section className="px-6 md:px-10 lg:px-20 bg-[#0d0628] text-white">
+    <section className="px-6 py-24 md:px-10 lg:px-20 bg-[#0d0628] text-white">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
           Our Recent Projects

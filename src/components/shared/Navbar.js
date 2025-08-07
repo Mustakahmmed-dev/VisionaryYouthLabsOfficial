@@ -44,6 +44,7 @@ const Navbar = () => {
                 </DropdownMenuContent>
             </DropdownMenu>
         </li>
+        <li><NavLink href="/projects" className="block hover:text-[#5ce1e6] md:p-3">Projects</NavLink></li>
         <li><NavLink href="/blog" className="block hover:text-[#5ce1e6] md:p-3">Blog</NavLink></li>
         <li><NavLink href="/contact" className="block hover:text-[#5ce1e6] md:p-3">Contact</NavLink></li>
 
