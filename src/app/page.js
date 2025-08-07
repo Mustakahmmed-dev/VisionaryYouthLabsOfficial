@@ -1,3 +1,4 @@
+import CallToAction from "@/components/shared/CallToAction";
 import Hero from "@/components/shared/Hero";
 import PortfolioOverview from "@/components/shared/PortfolioOverview";
 import ServicesOverview from "@/components/shared/ServicesOverview";
@@ -14,6 +15,7 @@ export default function Home() {
     <PortfolioOverview></PortfolioOverview>
     <Testimonials></Testimonials>
     <TrustedByBrands></TrustedByBrands>
+    <CallToAction></CallToAction>
    </div>
   );
 }
